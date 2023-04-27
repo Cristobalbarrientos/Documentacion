@@ -43,9 +43,9 @@ sudo docker container prune
 ```
 Iniciar docker compose
 ```
-sudo docker compose up
+sudo docker-compose up -d
 ```
 ```
-sudo docker compose downs
+sudo docker-compose downs
 ```
 *en construicción*

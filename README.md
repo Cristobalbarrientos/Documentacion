@@ -40,5 +40,11 @@ sudo docker stop ignition-test
 ```
 sudo docker container prune
 ```
-
+Iniciar docker compose
+```
+sudo docker compose up
+```
+```
+sudo docker compose downs
+```
 *en construicción*

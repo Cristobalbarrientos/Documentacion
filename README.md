@@ -40,6 +40,5 @@ sudo docker stop ignition-test
 ```
 sudo docker container prune
 ```
-hola
 
 *en construicción*

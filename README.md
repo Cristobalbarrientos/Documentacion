@@ -16,6 +16,7 @@ En caso de estar usando Ubuntu, la instalación se logra simplemente con el coma
 ```
 sudo apt install docker-ce
 ```
+Comando para verificar que docker se instalo.
 ```
 sudo docker run hello-world
 ```

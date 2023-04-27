@@ -31,7 +31,7 @@ sudo ./VBoxLinuxAdditions.run
 ```
 ##### Iniciar ignition con docker
 ```
-docker run -d -p 9088:8088 --name ignition-test inductiveautomation/ignition:8.1.26 \
+sudo docker run -d -p 9088:8088 --name ignition-test inductiveautomation/ignition:8.1.26 \
     -n docker-test -a localhost -h 9088 -s 9043
 ```
 ###### Comandos
